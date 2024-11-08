@@ -12,4 +12,4 @@ Trabajo en auditorías de seguridad y proyectos relacionados con análisis de vu
 - **Lenguajes**: Bash, Python
 - **Tecnologías**: Linux, Nmap, Wireshark, Git, Kali Linux, Parrot OS, Linux Mint.
 
-## El dolor es inebitable, el sufrimiento es opcional.
+## "El dolor es inevitable, el sufrimiento es opcional"
